@@ -1,3 +1,3 @@
 # BuggyCalc
 A unique calculator with unary functions.
-Project done in Q1 2017.
+Project I built in Q1 2017 under the mentorship of Dr. S Satyanarayana.
